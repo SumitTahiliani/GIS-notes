@@ -1,3 +1,8 @@
+---
+tags:
+  - "#raster"
+  - "#vector"
+---
 ## Raster Data
 Stores images as rows and columns of numbers with a Digital Value Number(DN) for each cell. The data is classified as continuos(eg image) or thematic(where each cell denotes a feature type)
 

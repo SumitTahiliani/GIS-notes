@@ -1,3 +1,7 @@
+---
+tags:
+  - "#topology"
+---
 ## Topology
 Describes spatial relationships between adjacent features (what is inside, what is outside)
 

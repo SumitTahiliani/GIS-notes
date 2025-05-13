@@ -1,3 +1,7 @@
+---
+tags:
+  - "#vector"
+---
 Different types of vector data
 
 ## Spatial Data in GIS
