@@ -78,7 +78,7 @@ Determines the weighted average of the four nearest pixels in the uncorrected im
 
 Bi-linear resampling generates a smoother appearing resampled image, the pixel value is altered in the image resulting in blurring or loss of image resolution
 
-This method requires three to fourt times the computation time compared to nearest neighbours method
+This method requires three to four times the computation time compared to nearest neighbours method
 
 ##### Cubic convolution
 Weighted average of sixteen surrounding pixels of the uncorrected image to approximate the pixel value of the new pixel space in the corrected image

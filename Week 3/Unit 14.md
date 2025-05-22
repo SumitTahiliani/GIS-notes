@@ -1,4 +1,4 @@
-## Pre-processing Spatial datasets
+## Pre-processing Spatial datasets-I
 
 ### Primary
 Basic GIS functions (usually refers to GIS tools eg. area and distance measurments, buffer generation etc.)
@@ -32,5 +32,3 @@ Basic GIS functions (usually refers to GIS tools eg. area and distance measurmen
 
 - Every cell in the output raster has a slope value
 - The lower the slope value, flatter the terain and vice versa
-
-
